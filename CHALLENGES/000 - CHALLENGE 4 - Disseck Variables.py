@@ -1,0 +1,8 @@
+n = str(input('Escreva algo: '))
+print('The primitive value of this is ', type(n))
+print('It is only spaces ? ',n.isspace())
+print('Is a number? ', n.isnumeric())
+print('Is alphanumeric? ', n.isalnum())
+print('Is it all uppercase? ', n.isupper())
+print('Is it all lowercase? ', n.islower())
+print('Is it normal format? ', n.istitle())
