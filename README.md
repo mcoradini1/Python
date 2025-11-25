@@ -1,2 +1,2 @@
 # Python
-Studies 
+Studies - DEPOIS TU APAGA
