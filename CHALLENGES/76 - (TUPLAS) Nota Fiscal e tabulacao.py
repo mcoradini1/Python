@@ -1,6 +1,0 @@
-produtos = ('Computador', 2500.00, 'Lapiseira', 5.00, 'Fone', 55.00, 'Laptop', 6000.00, 'Caderno', 12.00)
-print(f'{produtos[0]:-<40}R$ {produtos[1]:.2f}')
-print(f'{produtos[2]:-<40}R$ {produtos[3]:.2f}')
-print(f'{produtos[4]:-<40}R$ {produtos[5]:.2f}')
-print(f'{produtos[6]:-<40}R$ {produtos[7]:.2f}')
-print(f'{produtos[8]:-<40}R$ {produtos[9]:.2f}')

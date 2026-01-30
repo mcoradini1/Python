@@ -1,0 +1,4 @@
+GIT = VCS = VERSION CONTROL SOFTWARE
+GitHUB = Social Platform for programmers
+
+Git is local repository while GitHUB is remote repository
