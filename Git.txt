@@ -1,4 +1,13 @@
+Global information Tracker (GIT)
 GIT = VCS = VERSION CONTROL SOFTWARE
 GitHUB = Social Platform for programmers
 
 Git is local repository while GitHUB is remote repository
+
+Course topics:
+* Clone (can get another person work, but cannot change it, to do that i need to do a...)
+* Forks
+* HTML website: I's possible to host simple websites made by HTML.
+
+PUSH to origin - Put it online
+PULL from origin - Take from online
