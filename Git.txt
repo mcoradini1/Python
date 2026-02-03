@@ -5,9 +5,109 @@ GitHUB = Social Platform for programmers
 Git is local repository while GitHUB is remote repository
 
 Course topics:
-* Clone (can get another person work, but cannot change it, to do that i need to do a...)
-* Forks
-* HTML website: I's possible to host simple websites made by HTML.
 
-PUSH to origin - Put it online
-PULL from origin - Take from online
+PUSH to origin - Put it online (from local to network)
+PULL from origin - Take from online (from network to local)
+
+* Clone: Can get another person work in your local machine, nothing that is change in your machine will affect the
+original, unless you make a fork and ask to pull request new info to the project
+
+* Forks: Can get another person work in your GitHub, in this one you can change freely without affect the original,
+in case you want to add the original you need to open a pull request and the owner accept it.
+
+* Issues: It is a like a ticket used to track bugs, feature requests, tasks and discussion about the project. It is
+possible to use  markdown code here.
+
+* The normal order of work is : Fork → Clone → Edit → Push → Pull Request
+
+* Branches: similar to an alternate timeline for the project, it's good to make changes to the project and test. It is
+possible to make loads of them, it is useful in case of teams where someone for example works with the HTML, another
+one with CSS, other with java and in the end all can have their branch and import to the main project.
+
+* HTML website: I's possible to host simple websites made by HTML in github.
+
+
+GitHub Markdown (common mark) : I use on readme.md, issues and pool request
+They want to be easier to convert to HTML... Jupyter also use it...
+
+*BOLD* __BOLD__
+*ITALICS* _ITALICS_
+~~RISK~~
+_**BOLD&ITALICS**_
+
+#Title Level 1
+##Title Level 2
+###Title Level 3
+####Title level 4
+
+--- Prepare a line
+*** Prepare a line
+
+Numbered list:
+1. Test1
+1. Test2
+1. Test3
+
+or (no matter the number, it will follow order)
+
+1. Test1
+2. Test2
+3. Test3
+
+to add subtopics
+1. Test1
+ 1. Sub1
+  1. Sub2
+   1. Sub3
+2. Test2
+
+Demarked list: Can be * or -
+* Test
+* Test
+ * Test
+* Test
+
+Work lists: (with x inside are checkboxes completed)
+- [x] Add code
+- [x] Check code
+- [] Push code
+- [] email client
+
+Images: max 400 pixels de width/high are advisable
+Drag and drop the image to the GitHub, it will automatically generate the link with [], everything inside the [], is the
+name of my image.
+
+Links:
+[Access my GitHub](https://github.com/mcoradini1)
+[Hyperlink] (link)
+
+Tables:
+Num | Name | Grade    (FIRST TITLE LINE)
+---|---|---           (CLOSE TITLE LINE)
+1|Marlon|10           (SECOND LINE)
+2|Susana|20           (THIRD LINE)
+
+Program Commands:
+'print('Test')'   It will show it like a code. (grey background and easier to see)
+
+
+
+If I use ''', I can write the program inside it...
+
+'''
+num = int(input('Type your number '
+if num % 2 == 0
+ print(num)
+else
+ print('wrong')
+'''
+
+EMOJIS: just add : and put the name. Don't work on issue titles. to do that I need to coy and paste the real moj from
+emojpedia.org.
+
+:hands
+:strong
+:monkey
+
+QUOTATION: I use @ to do that. It will give some options (usually people from the issue, but can add others)
+I can quote specific replies as well, just go to ... of the specific message, and it will be quoted/coded automatically.
