@@ -3,10 +3,10 @@
 - [x] Add *Control Structures* **practice**
 - [x] Add *Collection data types* **core concepts**
 - [x] Add *Collection data types* **practice**
-- [ ] Add *Functions, Modules and Errors* **core concepts**
+- [x] Add *Functions, Modules and Errors* **core concepts**
 - [x] Add *Functions, Modules and Errors* **practice**
-- [ ] Add *Managing archives* **core concepts**
-- [ ] Add *Managing archives* **practice**
+- [ ] Add *Managing Files* **core concepts**
+- [ ] Add *Managing Files* **practice**
 - [ ] Add *NumPy* **core concepts**
 - [ ] Add *NumPy* **practice**
 - [ ] Add *Pandas* **core concepts**
@@ -35,5 +35,5 @@
 * **90 to 95** (Dictionaries)
 * **96 to 106** (Functions)
 * **107 to 113** (Modules and Fixing Errors)
-* **114** - Final Development 1
+* **114** - Capstone project
 

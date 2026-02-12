@@ -1,5 +1,5 @@
-from Development_Practice.Development_0_to_113.lib.interface import color
-from Development_Practice.Development_0_to_113.lib.interface import ui_header
+from Development_Practice.Capstone_project_114.lib.interface import color
+from Development_Practice.Capstone_project_114.lib.interface import ui_header
 
 
 def archive_txt_exists(name):
