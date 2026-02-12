@@ -1,13 +1,13 @@
 #PREPARE  MINI SYSTEM THAT WILL USE INTERATIVE HELP FROM PYTHON, IT WILL RECEIVE MANUALLY THE FUNCTIONS
 #USE COLORS INSIDE A LIST FOR THAT.
 c = (
-    '\033[m',          #0 - no color
-    '\033[30;41m',   #1 - red
-    '\033[30;42m',   #2 - green
-    '\033[30;43m',   #3 - yellow
-    '\033[30;44m',   #4  - blue
-    '\033[30;45m',   #5 - purple
-    '\033[7;30m',       #6 - white
+    '\033[m',               #0 - no color
+    '\033[30;41m',          #1 - red
+    '\033[30;42m',          #2 - green
+    '\033[30;43m',          #3 - yellow
+    '\033[30;44m',          #4  - blue
+    '\033[30;45m',          #5 - purple
+    '\033[7;30m',           #6 - white
 )
 
 

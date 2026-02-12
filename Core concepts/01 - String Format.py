@@ -22,3 +22,5 @@ print(f'{name:^20}') #20 spaces but centered
 print(f'{name:-<20}') #20 instead of spaces hifen
 print(f'{name:->20}') #20 instead of spaces hifen
 
+name_ex = input('What is your name? ')
+print('Nice to meet you {:-^20}'.format(name_ex))

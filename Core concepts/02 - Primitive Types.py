@@ -21,7 +21,7 @@ print('\nNow one example to show the type of variable use for the result of the 
 print(type(s))
 
 print('\n=========Another Example============')
-n3 = ('batata')
+n3 = ('potato')
 print(type(n3), n3, s)
 
 
