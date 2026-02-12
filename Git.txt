@@ -16,7 +16,7 @@ original, unless you make a fork and ask to pull request new info to the project
 in case you want to add the original you need to open a pull request and the owner accept it.
 
 * Issues: It is a like a ticket used to track bugs, feature requests, tasks and discussion about the project. It is
-possible to use  markdown code here.
+possible to use  mark-down code here.
 
 * The normal order of work is : Fork → Clone → Edit → Push → Pull Request
 
@@ -24,7 +24,9 @@ possible to use  markdown code here.
 possible to make loads of them, it is useful in case of teams where someone for example works with the HTML, another
 one with CSS, other with java and in the end all can have their branch and import to the main project.
 
-* HTML website: I's possible to host simple websites made by HTML in github.
+* HTML website: I's possible to host simple websites made by HTML in GitHub.
+When I start HTML and CSS I can watch the video and do it.
+(https://www.youtube.com/watch?v=2Y0HXnYpn9E&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&index=13)
 
 
 GitHub Markdown (common mark) : I use on readme.md, issues and pool request
