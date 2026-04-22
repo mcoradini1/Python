@@ -7,4 +7,4 @@ def write_line(name):
     print('~'*a)
 
 write_line('Functions are cool')
-write_line('Python is cool')
+write_line('01 - Python is cool')

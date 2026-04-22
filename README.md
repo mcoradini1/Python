@@ -7,11 +7,16 @@
 - [x] Add *Functions, Modules and Errors* **practice**
 - [ ] Add *Managing Files* **core concepts**
 - [ ] Add *Managing Files* **practice**
+- [ ] Add *exe archive* **core concepts**
+- [ ] Add *exe archive* **practice**
+- [ ] Add *Tkinter* **core concepts**
+- [ ] Add *Tkinter* **core concepts**
 - [ ] Add *NumPy* **core concepts**
 - [ ] Add *NumPy* **practice**
 - [ ] Add *Pandas* **core concepts**
 - [ ] Add *Pandas* **practice**
 - [ ] Re-check practice wording
+- [ ] Update them all in Jupyter
 
 ---
 
