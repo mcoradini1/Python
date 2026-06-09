@@ -35,7 +35,7 @@ def read_archive(name):
             print(f'{data[0]:<30}{data[1]:>3} years old')
 
 
-        #print(a.read())               #command read for a simple read... can also use readlines() it will add even \n
+        #print(a.read())               #command read 5.1 - For a simple read... can also use readlines() it will add even \n
 
     finally:
         a.close()

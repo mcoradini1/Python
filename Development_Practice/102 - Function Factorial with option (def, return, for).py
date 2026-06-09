@@ -1,3 +1,17 @@
+# ======================================================================================================================
+# CHALLENGE 101: Function Factorial
+# ======================================================================================================================
+
+"""
+Challenge: 7.6 - Function Vote (101)
+Category: 7 - Collections
+Concepts Used:
+
+
+Tags: import datetime, date.today().year, if, elif, else
+Status: ✔️ Completed
+"""
+
 def factorial(n, show=False):
     """
 

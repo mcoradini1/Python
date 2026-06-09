@@ -1,0 +1,23 @@
+# ============================================================
+# CHALLENGE 3: F STRINGS AND OLDER WAYS OF PRINTING VARIABLES)
+# ============================================================
+
+"""
+Challenge: 1.3 - fstrings (003)
+Category: 1.Foundations
+Concepts Used:
+    - print()
+    - .format()
+    - fstrings
+
+Tags: print(),.format(),fstrings
+Status: ✔️ Completed
+"""
+
+name = 'Jose'
+age = 33
+print(f'The name is {name} and age is {age}') #01 - Python 3.6+
+print('\n')
+print('The name is {} and age is {}'.format(name,age)) #01 - Python 3
+print('\n')
+print('In PYTHON 2 %s is %d years old' % (name, age)) # python 2 example (not in use)

@@ -24,7 +24,7 @@ while True:
     elif answer == 3: #QUIT
         print(f'{color(1)}SHUTTING DOWN!')
         sleep(1)
-        print('Thank you for your time!')
+        print('Thank you 5.1 - For your time!')
         exit(0)
         break
     else:
